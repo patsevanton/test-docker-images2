@@ -16,9 +16,9 @@ jobs:
     permissions:
       contents: write
       packages: write
-      attestations: write
-      id-token: write
-      actions: write # remove later
+#      attestations: write
+#      id-token: write
+#      actions: write # remove later
 
     steps:
       - name: Checkout repository
