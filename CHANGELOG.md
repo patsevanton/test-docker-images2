@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2024-10-13
+### :sparkles: New Features
+- [`cedca02`](https://github.com/patsevanton/test-docker-images2/commit/cedca02b90584736034670984216ce8dfeaeac91) - disable attestations, id-token, actions *(commit by [@patsevanton](https://github.com/patsevanton))*
+
+
 ## [1.5.0] - 2024-10-12
 ### :sparkles: New Features
 - [`fce62b5`](https://github.com/patsevanton/test-docker-images2/commit/fce62b596191a9593304472bccca5ab2cb880cdd) - disable attestations, id-token, actions *(commit by [@patsevanton](https://github.com/patsevanton))*
@@ -33,3 +38,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.3.0]: https://github.com/patsevanton/test-docker-images2/compare/1.2.0...1.3.0
 [1.4.0]: https://github.com/patsevanton/test-docker-images2/compare/1.3.0...1.4.0
 [1.5.0]: https://github.com/patsevanton/test-docker-images2/compare/1.4.0...1.5.0
+[1.6.0]: https://github.com/patsevanton/test-docker-images2/compare/1.5.0...1.6.0
