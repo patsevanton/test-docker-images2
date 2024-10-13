@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.0] - 2024-10-13
+### :sparkles: New Features
+- [`7bf7243`](https://github.com/patsevanton/test-docker-images2/commit/7bf7243ef19d8da95a7464e80a33078ec67f8e0e) - actions/checkout@v4.2.1 *(commit by [@patsevanton](https://github.com/patsevanton))*
+
+
 ## [1.9.0] - 2024-10-13
 ### :sparkles: New Features
 - [`c3c5906`](https://github.com/patsevanton/test-docker-images2/commit/c3c59065622666b49f8003e0a883d4b97dcac466) - stefanzweifel/git-auto-commit-action@v5.0.1 *(commit by [@patsevanton](https://github.com/patsevanton))*
@@ -57,3 +62,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.7.0]: https://github.com/patsevanton/test-docker-images2/compare/1.6.0...1.7.0
 [1.8.0]: https://github.com/patsevanton/test-docker-images2/compare/1.7.0...1.8.0
 [1.9.0]: https://github.com/patsevanton/test-docker-images2/compare/1.8.0...1.9.0
+[1.10.0]: https://github.com/patsevanton/test-docker-images2/compare/1.9.0...1.10.0
