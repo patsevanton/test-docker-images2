@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.14.0] - 2024-10-13
+### :sparkles: New Features
+- [`f9d913e`](https://github.com/patsevanton/test-docker-images2/commit/f9d913edf911c4d792289065b0ddb142a525f5e9) - ncipollo/release-action@v1.14.0 *(commit by [@patsevanton](https://github.com/patsevanton))*
+
+
 ## [1.13.0] - 2024-10-13
 ### :sparkles: New Features
 - [`ae03ec4`](https://github.com/patsevanton/test-docker-images2/commit/ae03ec495e56f4ddb8cfdf0a7f4d145317e106b9) - requarks/changelog-action@v1.10.2 *(commit by [@patsevanton](https://github.com/patsevanton))*
@@ -81,3 +86,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.11.0]: https://github.com/patsevanton/test-docker-images2/compare/1.10.0...1.11.0
 [1.12.0]: https://github.com/patsevanton/test-docker-images2/compare/1.11.0...1.12.0
 [1.13.0]: https://github.com/patsevanton/test-docker-images2/compare/1.12.0...1.13.0
+[1.14.0]: https://github.com/patsevanton/test-docker-images2/compare/1.13.0...1.14.0
