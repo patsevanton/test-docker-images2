@@ -48,7 +48,7 @@ jobs:
           excludeTypes: "chore,ci,docs,style,test,release"
 
       - name: Create Release
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@v1.14.0
         id: release
         if: ${{ steps.semver.outputs.nextStrict != '' }}
         with:
