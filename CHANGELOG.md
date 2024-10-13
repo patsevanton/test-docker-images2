@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.0] - 2024-10-13
+### :sparkles: New Features
+- [`38be82b`](https://github.com/patsevanton/test-docker-images2/commit/38be82bdbc91da0f38839b6eca15c5ecca9582d1) - docker/login-action@v3.3.0 *(commit by [@patsevanton](https://github.com/patsevanton))*
+
+
 ## [1.7.0] - 2024-10-13
 ### :sparkles: New Features
 - [`cdd2f5c`](https://github.com/patsevanton/test-docker-images2/commit/cdd2f5cbbb2312f184f035d7cb186a6523e7c9c3) - disable tag in Extract metadata (tags, labels) for Docker *(commit by [@patsevanton](https://github.com/patsevanton))*
@@ -45,3 +50,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.5.0]: https://github.com/patsevanton/test-docker-images2/compare/1.4.0...1.5.0
 [1.6.0]: https://github.com/patsevanton/test-docker-images2/compare/1.5.0...1.6.0
 [1.7.0]: https://github.com/patsevanton/test-docker-images2/compare/1.6.0...1.7.0
+[1.8.0]: https://github.com/patsevanton/test-docker-images2/compare/1.7.0...1.8.0
