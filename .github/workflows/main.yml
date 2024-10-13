@@ -39,7 +39,7 @@ jobs:
 
       - name: Update CHANGELOG
         id: changelog
-        uses: requarks/changelog-action@v1
+        uses: requarks/changelog-action@v1.10.2
         if: ${{ steps.semver.outputs.nextStrict != '' }}
         with:
           token: ${{ github.token }}
