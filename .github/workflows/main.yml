@@ -30,7 +30,7 @@ jobs:
           noVersionBumpBehavior: warn
 
       - name: Create Tag
-        uses: rickstaa/action-create-tag@v1
+        uses: rickstaa/action-create-tag@v1.7.2
         if: ${{ steps.semver.outputs.nextStrict != '' }}
         with:
           tag: ${{ steps.semver.outputs.nextStrict }}
